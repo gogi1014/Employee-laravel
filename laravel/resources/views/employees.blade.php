@@ -10,8 +10,6 @@
 @include('header')
 
 <body>
-
-
     <table class="table table-dark">
         <thead>
             <tr>
@@ -35,4 +33,5 @@
         </tbody>
     </table>
 </body>
+
 </html>
